@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  color: #343a40; /* Dark text for contrast */
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  background-color: #f5f5f5; /* Light gray background */
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.oswald-header {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  color: #A0153E;
+}
+
+.oswald-header.h1 {
+  color: #FF204E; /* Color code from the image */
+}
+
+.oswald-header.h2 {
+  color: #A0153E; /* Color code from the image */
+}
+
+.oswald-header.h3 {
+  color: #5D0E41; /* Color code from the image */
+}
+
+p {
+  color:black}
